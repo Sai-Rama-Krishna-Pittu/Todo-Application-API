@@ -1,4 +1,4 @@
-# Todo Application
+# Todo Application -API
 
 This project implements a backend service for a Todo application. The service provides APIs for managing and retrieving todo items, with various filtering options. The backend is built using Node.js, Express, and SQLite.
 
